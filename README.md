@@ -19,7 +19,7 @@
 
 ## 💻 Projeto
 
-Uma homepage de um portal de notícias fictício. <br>
+Uma homepage de um portal de notícias fictício.<br>
 Projeto desenvolvido para praticar os conceitos de CSS Grid layout.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
